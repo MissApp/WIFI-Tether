@@ -1,7 +1,7 @@
-WIFI-Tether
+Android WIFI Tether Plus
 ===========
 
-Android WIFI Tether Plus Version: https://raw.github.com/MissApp/WIFI-Tether/master/AndroidWiFiTether_10.1.0.apk
+This is Android WIFI Tether Plus Version: https://raw.github.com/MissApp/WIFI-Tether/master/AndroidWiFiTether_10.1.0.apk
 
 WiFi Tethering App , share your network.
 ->Root is Required!
