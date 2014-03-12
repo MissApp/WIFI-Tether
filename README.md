@@ -15,15 +15,25 @@ Clients can connect via wifi or bluetooth and get access to the internet using t
 
 KEY FEATURES :
 Share Internet connection
+
 Access Control
+
 1-Click WIFI Tether Widget
+
 WIFI connection logs
+
 Battery Temperature
+
 WIFI Tether configurations
+
 WIFI Security configurations
+
 Automatic shutdown options
+
 LAN configurations
+
 Notifications configurations
+
 Other Miscellaneous configurations
 
 
